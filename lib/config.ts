@@ -18,7 +18,7 @@ export const dealerships: Record<string, DealershipConfig> = {
     name: "Epitome Kia Whitefield",
     dealershipName: "Epitome Automobiles Pvt Ltd",
     location: "Whitefield, Bengaluru",
-    googleReviewUrl: "https://maps.app.goo.gl/r2dWCvdDfYWdHF6Q6",
+    googleReviewUrl: "https://g.page/r/CbqyLezxFvTnEAE/review",
     active: true,
   },
   yelahanka: {
